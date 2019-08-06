@@ -3,7 +3,9 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> LikeLion 7th Halfthon
+> LikeLion 7th Halfthon - MTV(Motivation Travel Variation)
+> 여행 정보 모음 사이트
+> 한번에 하나의 페이지에서 한번에 끝내기
 
 ## Usage
 
