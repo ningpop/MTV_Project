@@ -13,9 +13,9 @@ python manage.py runserver
 
 ## Author
 
-👤 **ningpop, ysh961217, 선문대 조소민, 단국대 천안 이정인**
+👤 **순천향대 유승훈, 순천향대 이남준, 선문대 조소민, 단국대 천안 이정인**
 
-* Github: [@ningpop](https://github.com/ningpop) [@ysh961217](https://github.com/ysh961217)
+* Github: [@ysh961217](https://github.com/ysh961217) [@ningpop](https://github.com/ningpop)
 
 ## Show your support
 
